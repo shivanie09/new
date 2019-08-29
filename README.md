@@ -1,4 +1,5 @@
-# new
+//121810308030
+//customer bill
 #include <stdio.h>
 #define MAX 50
 typedef struct item_details
